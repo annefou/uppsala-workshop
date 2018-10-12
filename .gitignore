@@ -1,4 +1,3 @@
-data/
 results/
 *.pdf
 .bash_profile
@@ -7,4 +6,6 @@ molecules/
 north-pacific-gyre/
 writing/
 .Rproj.user
+cleaned-data/
+data/*
 !data/feline.csv
