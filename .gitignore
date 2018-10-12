@@ -7,5 +7,7 @@ north-pacific-gyre/
 writing/
 .Rproj.user
 cleaned-data/
-data/*
-!data/feline.csv
+data/animal-counts
+data/elements
+data/pdb
+data/*.txt
